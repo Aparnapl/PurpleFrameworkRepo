@@ -10,5 +10,6 @@ public void createAccountTest()
 	Reporter.log("navigate to my account");
 	Reporter.log("login to applicate");
 	Reporter.log("add product");
+	
 }
 }
