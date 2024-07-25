@@ -8,5 +8,6 @@ public class Login {
 	public void logintest()
 	{
 		System.out.println("login");
+		System.out.println("login");
 	}
 }
