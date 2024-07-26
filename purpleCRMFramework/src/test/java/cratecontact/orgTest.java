@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 public class orgTest {
 @Test
-public void login()
+public void loginTest()
 {
 	System.out.println("hii");
 }
