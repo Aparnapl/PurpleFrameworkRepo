@@ -7,10 +7,21 @@ public class CreateAccountTest {
 @Test
 public void createAccountTest()
 {
-	Reporter.log("navigate to my account");
-	Reporter.log("login to applicate");
-	Reporter.log("add product");
-	Reporter.log("");
-	Reporter.log("");
+	String URL= System.getProperty("url");
+	String Browser= System.getProperty("browser");		
+	String UserName= System.getProperty("username");		
+	String Password= System.getProperty("password");		
+	
+	System.out.println(URL);
+	System.out.println(Browser);
+	System.out.println(UserName);
+	System.out.println(Password);
+			
+			
+	System.out.println("a");
+	System.out.println("a");
+	System.out.println("a");
+	System.out.println("a");
+	System.out.println("a");
 }
 }
